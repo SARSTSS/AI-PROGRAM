@@ -6,10 +6,10 @@ print("heloo"+name)
 
 
 print("AI: What is your age")
-age = input("You: ")
+name = input("You: ")
 print("OK"+age)
 
 
 print("AI: What is your Gmail")
-Gmail = input("You: ")
+name = input("You: ")
 print("OK"+Gmail)
