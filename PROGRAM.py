@@ -7,9 +7,9 @@ print("heloo"+name)
 
 print("AI: What is your age")
 name = input("You: ")
-print("OK"+age)
+print("OK"+name)
 
 
 print("AI: What is your Gmail")
 name = input("You: ")
-print("OK"+Gmail)
+print("OK"+name)
